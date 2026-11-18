@@ -1,0 +1,30 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IDE ###
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### Logs ###
+*.log
+logs/
+
+### Tool and scratch folders ###
+.gemini/
+.claude/
+.cursor/
+.antigravity/
+*.prompt
+*.instructions
+notes.txt
